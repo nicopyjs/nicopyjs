@@ -8,13 +8,13 @@
 
 - 🔭 I’m currently working on **frontend, web development, integration**
 
-- 🌱 I’m currently learning **React, Next.js**
+- 🌱 I’m currently learning **React, Next.js, python**
 
 - 👯 I’m looking to collaborate on **projects to practice**
 
-- 🤝 I’m looking for help with **React**
+- 🤝 I’m looking for help with **React, tailwind, next.js**
 
-- 📫 How to reach me **ni.palmam@duocuc.cl**
+- 📫 How to reach me **nikopalma71@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
